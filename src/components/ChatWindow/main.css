@@ -1,0 +1,31 @@
+.chat{
+  right: 10px;
+  bottom: 20px;
+  background: rgb(214, 210, 210);
+  height: 350px;
+  width: 340px;
+  padding: 0;
+}
+
+.chat-window{
+  height: 295px;
+  overflow-y: scroll;
+}
+
+.chat-input{
+  height:35px;
+  width: 100%;
+}
+
+.chat-header{
+  width:100%;
+  height: 20px
+}
+
+.message-item{
+  background: white;
+  border-radius: 25px;
+  padding: 10px;
+  margin: 4px;
+}
+

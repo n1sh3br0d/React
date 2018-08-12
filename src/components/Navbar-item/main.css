@@ -1,0 +1,10 @@
+li.nav-item.nav-main {
+  color: white;
+}
+li.nav-item.nav-main:hover{
+  cursor: pointer; 
+}
+
+li.nav-item.nav-main.active {
+  color: grey;
+}
